@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Begad Tamim</h1>
+<h1 align="center">Hi, I'm Begad Tamim👋</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
 
 - 📫 How to reach me **begadtamim.a@gmail.com**
