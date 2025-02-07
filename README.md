@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **begadtamim.a@gmail.com**
 
-- 📄 Know about my experiences "[https://drive.google.com/file/d/1UYYJG5lqYUCdwuGwMyVWJprAhsFRDyAc/view?usp=drivesdk]"
+- 📄 Know about my experiences "https://drive.google.com/file/d/1UYYJG5lqYUCdwuGwMyVWJprAhsFRDyAc/view?usp=drivesdk"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
